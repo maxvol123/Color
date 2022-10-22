@@ -24,16 +24,20 @@ body{
     background-color: #2a3bd6;
     justify-content: space-around;
 }
+.fa-solid{
+    font-size: x-large;
+    font-weight: bold; 
+}
 .fa-solid:hover{
 cursor: pointer;
 }
-.color>p{
-    background-color: rgba(122, 122, 122, 0.273);
-}
 .copy{
     cursor: pointer;
+    font-size: x-large;
+    font-weight: bold;
 }
 .press{
+    top: 50%;
     position: absolute;
     right: 50%;
     display: block;
